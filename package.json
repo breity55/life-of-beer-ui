@@ -11,7 +11,7 @@
     "react-router": "^4.3.1",
     "react-router-dom": "^4.3.1",
     "react-scripts": "^2.1.8",
-    "lodash": ">=4.17.13"
+    "lodash": ">=4.17.23"
   },
   "scripts": {
     "start": "react-scripts start",
